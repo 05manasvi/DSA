@@ -76,7 +76,10 @@ while True:
         break 
 
 
-    newNode = Node(value)
+
+
+
+    newNode  = Node(value)
     tree.insert(newNode)
 
 print("\nInorder Traversal:")
