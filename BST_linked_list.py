@@ -73,7 +73,8 @@ while True:
     value = int(input("Enter node value (-1 to stop): "))
 
     if value == -1:
-        break
+        break 
+
 
     newNode = Node(value)
     tree.insert(newNode)
