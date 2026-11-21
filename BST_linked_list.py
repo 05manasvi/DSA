@@ -76,9 +76,6 @@ while True:
         break 
 
 
-
-
-
     newNode  = Node(value)
     tree.insert(newNode)
 
