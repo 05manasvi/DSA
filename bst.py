@@ -143,6 +143,7 @@ while True:
     print("1. Insert Node")
     print("2. Delete Node")
     print("3. Inorder Traversal")
+    
     print("4. Preorder Traversal")
     print("5. Postorder Traversal")
     print("6. Find Minimum and Maximum")
@@ -196,8 +197,13 @@ while True:
 
     elif choice == 7:
 
+
+
         print("Exiting program...")
         break
+
+
+
 
     else:
         print("Invalid choice! Please try again.")
